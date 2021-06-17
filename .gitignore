@@ -1,2 +1,7 @@
-dist
-node_modules
+node_modules/
+build/
+test/
+secret/
+.secret
+.secret-testnet
+.env
